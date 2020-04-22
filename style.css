@@ -13,3 +13,18 @@ h2{
      color: orangered;
    
 }
+
+h6{
+     margin: 0 auto;
+    max-width: 315px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border:5px solid #ff00;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px orange;
+    text-align: center;
+     font-family: cursive;  
+     background-color: rgb(20, 26, 26);
+     color: orangered;
+}
